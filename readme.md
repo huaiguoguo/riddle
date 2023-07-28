@@ -1,5 +1,6 @@
 
 ### 基于telegram的色子游戏
+![img_4.png](img_4.png)
 ![img_3.png](img_3.png)
 ![img.png](img.png)
 ![img_2.png](img_2.png)
